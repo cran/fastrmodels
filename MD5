@@ -1,9 +1,9 @@
-5452c5ba5cc22091730374331f9c8b70 *DESCRIPTION
+b5cbb419e9fe658fbe64408f39abcd18 *DESCRIPTION
 0455d6dd320db9c2c99ff36fa7305895 *LICENSE
-b5b2e20c75457107297b566908b8c29d *NAMESPACE
-55f294033a5deebabc66d2b1be085f03 *NEWS.md
+8cdfd98e16ddb0229f7e481aa644a093 *NAMESPACE
+3ea7ca0d8db65f52cfba4747de5f7b30 *NEWS.md
 44727c3cb448cff2b9640294eb2ea7c3 *R/data.R
-2b25b67fc49f606cb7e8b1f0e9c1b161 *R/fastrmodels-package.R
+02e7902cc97360da8aa92eeebfbb5cc8 *R/fastrmodels-package.R
 d09a1f9ad59f3dd4a1deac8a5acbce3f *README.md
 04f09da90dbe057bae33400d29b72ebc *data/cp_model.rda
 ae35e1d4ff47d76b961369b6d32a2411 *data/ep_model.rda
